@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aadityakiran-S
-- 👀 I’m interested in everything that has anything to do with computers but as of 10-5-2022, I'm just starting out, I won't have much to put up at this time.
-- 🌱 I’m currently learning data structures and algorithms. Just thought I'd get the basics down before going on to make something. 
-- 💞️ I’m looking to collaborate on anything basically.... don't have any prejudices. 
+- 👀 I’m interested in anything that's intersted in. Basically games, the web and AI as of now. We'll see where it goes.
+- 🌱 I’m currently learning AI and how to make a chatbot.
+- 💞️ I’m looking to collaborate on more AI stuff.  
 - 📫 How to reach me: aadityakirans@gmail.com
 
 <!---
